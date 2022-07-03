@@ -1,9 +1,8 @@
-import { Link } from "react-router-dom";
-import { Advantages } from "./Advantages";
-import { Asider } from "./Asider";
-import { Footer } from "./Footer";
-import { Navigation } from "./Navigation";
-import { Products } from "./Products";
+import { Advantages } from "./components/Advantages";
+import { Asider } from "./components/Asider";
+import { Footer } from "./components/Footer";
+import { Navigation } from "./components/Navigation";
+import { Products } from "./components/Products";
 
 function App() {
   return (
