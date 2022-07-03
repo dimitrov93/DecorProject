@@ -16,7 +16,6 @@ function App() {
 
         <Products />
 
-
         <Footer />
       </div>
     </div>

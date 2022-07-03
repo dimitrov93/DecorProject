@@ -15,7 +15,7 @@ export const Products = () => {
           <div className="row">
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq1.jpg)"}}>
                   <div className="inner">
                     <p>
                       <Link to="single.html" className="icon"><i className="icon-shopping-cart"></i></Link>
@@ -31,7 +31,7 @@ export const Products = () => {
             </div>
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq2.jpg)"}}>
                   <span className="sale">Sale</span>
                   <div className="inner">
                     <p>
@@ -48,7 +48,7 @@ export const Products = () => {
             </div>
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq1.jpg)"}}>
                   <div className="inner">
                     <p>
                       <Link to="single.html" className="icon"><i className="icon-shopping-cart"></i></Link>
@@ -66,7 +66,7 @@ export const Products = () => {
           <div className="row">
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq3.jpg)"}}>
                   <div className="inner">
                     <p>
                       <Link to="single.html" className="icon"><i className="icon-shopping-cart"></i></Link>
@@ -82,7 +82,7 @@ export const Products = () => {
             </div>
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq3.jpg)"}}>
                   <div className="inner">
                     <p>
                       <Link to="single.html" className="icon"><i className="icon-shopping-cart"></i></Link>
@@ -98,7 +98,7 @@ export const Products = () => {
             </div>
             <div className="col-md-4 text-center animate-box">
               <div className="product">
-                <div className="product-grid" >
+                <div className="product-grid" style={{backgroundImage: "url(images/banq2.jpg)"}}>
                   <div className="inner">
                     <p>
                       <Link to="single.html" className="icon"><i className="icon-shopping-cart"></i></Link>
